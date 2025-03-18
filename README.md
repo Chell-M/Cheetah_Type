@@ -7,6 +7,8 @@ Test your typing speed against others in real time! CheetahType is a fast-paced 
 
 ---
 
+> **Note:** The repository for Cheetah-Type is currently **private** while the project is under active development.
+
 ## 🛠️ Tech Stack  
 
 ### **Frontend**  
